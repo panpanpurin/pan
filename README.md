@@ -4,7 +4,7 @@
  　　.  　 　　　˚　　　　　*　　 　　✦　　　.　　.　　　✦　　˚ 　　　 　　˚　.　*　　. 　˚　　.
  <p style="line-height: 1.8; font-size: 1.1em; max-width: 780px; margin: 30px auto;"><br>
     The universe has a beginning, but no end.<br><br>
-    — Infinity 🌌<br><br>
+    — Infinite 🌌<br><br>
     Stars, too, have their own beginnings, but their own power results in their destruction.<br><br>
    — Finite ⭐<br><br>
 </p>
